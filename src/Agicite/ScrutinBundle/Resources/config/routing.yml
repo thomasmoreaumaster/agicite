@@ -1,0 +1,7 @@
+agicite_scrutin_homepage:
+    path:     /
+    defaults: { _controller: AgiciteScrutinBundle:Scrutin:index }
+
+agicite_scrutin_view:
+    path:     /{id}
+    defaults: { _controller: AgiciteScrutinBundle:Scrutin:view }

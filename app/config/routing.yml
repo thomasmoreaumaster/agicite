@@ -1,0 +1,3 @@
+agicite_scrutin:
+    resource: "@AgiciteScrutinBundle/Resources/config/routing.yml"
+    prefix:   /scrutin
